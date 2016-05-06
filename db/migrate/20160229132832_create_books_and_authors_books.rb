@@ -17,3 +17,5 @@ table.column :book_id, :integer, :null => false
 end
 
 end
+
+end
